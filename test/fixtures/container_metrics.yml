@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  cpu_millicores: 1.5
+  memory_mb: 1.5
+  namespace: MyString
+
+two:
+  name: MyString
+  cpu_millicores: 1.5
+  memory_mb: 1.5
+  namespace: MyString
